@@ -1,34 +1,31 @@
-# Hi 👋, I'm Apri Irwansyah
+# 👋 Hi, I'm Apri Irwansyah
 
-Dedicated QA engineer with expertise in **Manual QA** and **Automated Testing**. I am passionate about ensuring software quality by identifying bugs, improving testing processes, and collaborating in development teams. I mostly develop more with **Manual QA**. I really enjoy learning languages and frameworks like python and javascript, as well as working as a freelancer, you can check my linkedin https://www.linkedin.com/in/apriirwansyah/.
+I'm a QA Engineer who focuses on Manual Testing and is currently learning Automation Testing. 
+Accustomed to writing test cases, checking bugs, and helping maintain application quality. 
 
-Here are some of the skills and technologies I am good at:
+Now I'm learning automation using Java, Selenium, and TestNG. 
+I'm also starting to get to know CI/CD using Jenkins. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApriIrwansyah)](https://github.com/ApriIrwansyah/github-readme-stats)
+📫 Contact: apri.irwansyah@gmail.com 
+🔗 LinkedIn: [linkedin.com/in/apriirwansyah](https://www.linkedin.com/in/apriirwansyah/)
 
-## 🚀 Key Features
+---
 
-🔭 I’m currently working on enhancement my hard skills
+## 🔧 Short Skills
 
-📫 How to reach me apri.irwansyah@gmail.com
+- Manual Testing (test case, exploration, regression)
+- Basic Automation Testing (Selenium, TestNG, JUnit)
+- API Testing (Postman)
+- Basic CI/CD (Jenkins)
+- Tools: JIRA, GitHub
 
+---
 
+## 📊 GitHub Stats
 
-**Manual Testing**       : Documentation and manual test procedures to ensure application functionality.
+[![GitHub Stats – Apri](https://github-readme-stats.vercel.app/api?username=ApriIrwansyah&show_icons=true&theme=radical)](https://github.com/ApriIrwansyah)
 
-**Automated Testing**    : Scripts and frameworks for automated testing to improve test efficiency and coverage.
+---
 
-**Reports & Results**    : View test results and bug reports for further analysis.
-
-## 🛠️ Technologies Used
-
-🔍 Skills                      : Manual QA, Automated Testing, Test Script Writing, Bug Analysis, Regression Testing, Integration & System Testing.
-
-🔧 Automated Testing Framework : Selenium, Pytest, Cucumber, Katalon Studio, Appium Postman, Apache Jmeter
-
-🔧 Programming Languages       : Python
-
-🔧 Bug Tracking Tools          : JIRA, Bugzilla
-
-🌐 Other Skill                 : SQL, Jenkins for CI/CD, GitHub
-
+💬 Thanks for visiting my profile! 
+I am open to collaboration, freelance, or job opportunities as a **QA Engineer**.
